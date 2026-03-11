@@ -1,5 +1,4 @@
 - Installation de KeePass sur les Servers Windows Server 2025 & Debian 13
-- 
 <img width="760" height="166" alt="image" src="https://github.com/user-attachments/assets/24a8b8fb-f090-4723-838d-6dc219f9460c" />
 
 
