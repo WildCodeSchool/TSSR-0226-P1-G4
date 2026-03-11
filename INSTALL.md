@@ -8,3 +8,4 @@
 - Installation de puTTY sur Ubuntu 24
 - sudo apt install
   
+  <img width="654" height="631" alt="Screenshot from 2026-03-11 15-31-18" src="https://github.com/user-attachments/assets/2ef363a2-f322-4873-bd38-bc16e8cece34" />
