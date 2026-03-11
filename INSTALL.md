@@ -6,5 +6,5 @@
 - Chiffrement en SSH des 2 BDD
 - Sauvegarder chaque clef sur le serveur associé
 - Installation de puTTY sur Ubuntu 24
-    . sudo apt install
+- sudo apt install
   
