@@ -13,8 +13,11 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 # Rôle des Menbre :  
 
   Minjha : Product Owner,"Création du Backlog, aide à la documentation du projet."
+  
   Zinedine : Tech,"Installation de KeePass sur serveurs (Windows/Debian), création des accès BDD."
+  
   Anass : Tech,"Création des accès SSH, configuration des BDD, documentation."
+  
   Cédric : Scrum Master,"Gestion du framework, installation de KeePass sur clients (Windows 11/Ubuntu), documentation."
 
   #  Architecture technique
