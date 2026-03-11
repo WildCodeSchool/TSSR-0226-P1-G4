@@ -10,7 +10,7 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
   * Anass
   * Cédric
 
-# Rôle des Menbre :  
+# Rôle des Membres :  
 
   Minjha : Product Owner,"Création du Backlog, aide à la documentation du projet."
   
