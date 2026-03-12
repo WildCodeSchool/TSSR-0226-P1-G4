@@ -3,9 +3,9 @@ Projet : Gestion Sécurisée de Bases de Données de Mots de Passe
 # Sommaire : 
 
 1.  [Description du Projet](#Description-du-Projet)
-2.  [Membre du groupe](#menbre-du-groupe)
-3.  [Rôle des Menbre](rôle-des-menbres)
-4.  [Architecture technique](architecture-technique)
+2.  [Membre du groupe](#Menbre-du-groupe)
+3.  [Rôle des Menbre](#Rôle-des-menbres)
+4.  [Architecture technique](#Architecture-technique)
 
 
 
