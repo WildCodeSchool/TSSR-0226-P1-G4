@@ -16,7 +16,7 @@ Ce projet consiste en la mise en place d'une infrastructure de gestion centralis
 Le déploiement s'articule autour de deux bases de données chiffrées, accessibles dans un environnement hybride (Windows et Linux), garantissant ainsi une haute disponibilité et une interopérabilité pour les clients.
 
 ------------------------------------------------------------------------------------------------------------
-# **Membre du groupe :**
+# **Membre du groupe :*
   * Minjha
   * Zinedine
   * Anass
