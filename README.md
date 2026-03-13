@@ -39,7 +39,7 @@ La Base de données "DSI_T0" est hébergée sur un serveur Windows Server 2025.
 
 La Base de données "DSI_T1" est hébergée sur un serveur Linux Debian 13.
 
-Vous avez l'accès aux bases de données de manière sécurisée via le logiciel KeePass pour vous connectez aux bases de données via le réseau.
+Vous (le Client) avez l'accès aux bases de données de manière sécurisée via le logiciel KeePass pour vous connectez aux bases de données via le réseau.
 
 En terme de sécurité : Chaque base de données utilise une signature de chiffrement unique et les clées de chiffrement sont conservées localement sur leurs serveurs hôtes respectifs.
 
