@@ -18,10 +18,10 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 ------------------------------------------------------------------------------------------------------------
   # **Membre du groupe**
  
-  * PO :Minjha
-  * SM :Cédric
-  * Tech :Anass
-  * Tech Zinedine
+  * PO : Minjha
+  * SM : Cédric
+  * Tech : Anass
+  * Tech : Zinedine
 
   # **Rôle des Membres**  
 
