@@ -35,9 +35,9 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 
   #  **Architecture technique**
   
-La Base de données DSI_T0 est hébergée sur un serveur Windows Server 2025.
+La Base de données "DSI_T0" est hébergée sur un serveur Windows Server 2025.
 
-La Base de données DSI_T1 est hébergée sur un serveur Linux Debian 13.
+La Base de données "DSI_T1" est hébergée sur un serveur Linux Debian 13.
 
 Vous avez l'accès aux bases de données de manière sécurisée via le logiciel KeePass pour vous connectez aux bases de données via le réseau.
 
