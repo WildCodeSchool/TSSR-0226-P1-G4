@@ -18,30 +18,30 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 ------------------------------------------------------------------------------------------------------------
   # **Membre du groupe**
  
-  * PO : Minjha
-  * SM : Cédric
+  * PO_Product Owner : Minjha
+  * SM_Scrum Master : Cédric
   * Tech : Anass
   * Tech : Zinedine
 
   # **Rôle des Membres**  
 
-  Minjha : Product Owner,"Création du Backlog, aide à la documentation du projet."
+  Minjha : "Encadré le projet. Création du Backlog, aide à la documentation du projet."
   
-  Cédric : Scrum Master,"Gestion du framework, installation de KeePass sur clients (Windows 11/Ubuntu), documentation."
+  Cédric : "Gestion du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu), rédigé la documentation."
   
-  Zinedine : Tech,"Installation de KeePass sur serveurs (Windows/Debian), création des accès BDD."
-  
-  Anass : Tech,"Création des accès SSH, configuration des BDD, documentation."
+  Anass : "Effectué une connexion sécurisée en SSH qui permet aux 4 machines de communiquer entre-elles et la synchronisation des terminaux."
+   
+  Zinedine : "Installation de la clef de chiffrement sur chaque serveur, création des accès aux 2 BDD via le protocole SMB."
 
   #  **Architecture technique**
   
-Base de données DSI_T0 : Hébergée sur un serveur Windows.
+Base de données DSI_T0 : Hébergée sur un serveur Windows Server 2025.
 
-Base de données DSI_T1 : Hébergée sur un serveur Linux.
+Base de données DSI_T1 : Hébergée sur un serveur Linux Debian 13.
 
 Accès : Les clients disposent du logiciel KeePass pour se connecter aux bases de données respectives via le réseau.
 
-Sécurité : Chaque base de données utilise une signature de chiffrement unique. Les clés de chiffrement sont conservées localement sur leurs serveurs hôtes respectifs.
+Sécurité : Chaque base de données utilise une signature de chiffrement unique. Les clées de chiffrement sont conservées localement sur leurs serveurs hôtes respectifs.
 
 
 
