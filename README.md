@@ -27,13 +27,14 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 
   Minjha : Product Owner,"Création du Backlog, aide à la documentation du projet."
   
+  Cédric : Scrum Master,"Gestion du framework, installation de KeePass sur clients (Windows 11/Ubuntu), documentation."
+  
   Zinedine : Tech,"Installation de KeePass sur serveurs (Windows/Debian), création des accès BDD."
   
   Anass : Tech,"Création des accès SSH, configuration des BDD, documentation."
-  
-  Cédric : Scrum Master,"Gestion du framework, installation de KeePass sur clients (Windows 11/Ubuntu), documentation."
 
   #  **Architecture technique**
+  
 Base de données DSI_T0 : Hébergée sur un serveur Windows.
 
 Base de données DSI_T1 : Hébergée sur un serveur Linux.
