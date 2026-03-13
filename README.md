@@ -45,7 +45,7 @@ En terme de sécurité : Chaque base de données utilise une signature de chiffr
 
 # **Démonstration**
 
-Je donne la parole à mon Scrum Master pour vous démontrez à travers son écran, tout ce que nous avons élaboré durant cette 1ere semaine du projet : 
+Je donne la parole à mon Scrum Master pour vous expliquez, tout ce que nous avons élaboré durant cette 1ere semaine de projet : 
 
 
 
