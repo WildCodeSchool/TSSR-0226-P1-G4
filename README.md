@@ -25,9 +25,9 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 
   # **Rôle des Membres**  
 
-  Minjha : "Encadré le projet. Création du Backlog, aide à la documentation du projet."
+  Minjha : "Création du Backlog, aide à la documentation du projet."
   
-  Cédric : "Gestion du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu), rédigé la documentation."
+  Cédric : "Gestion et encadrement du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu), rédigé la documentation."
   
   Anass : "Effectué une connexion sécurisée en SSH qui permet aux 4 machines de communiquer entre-elles et la synchronisation des terminaux."
    
