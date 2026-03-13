@@ -25,9 +25,9 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 
   # **Rôle des Membres**  
 
-  Minjha : "Création du Backlog, aide à la documentation du projet."
+  Minjha : "Création du Backlog et participation à la documentation du projet."
   
-  Cédric : "Gestion et encadrement du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu), rédigé la documentation."
+  Cédric : "Gestion et encadrement du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu) et la rédaction de la documentation."
   
   Anass : "Effectué une connexion sécurisée en SSH qui permet aux 4 machines de communiquer entre-elles et la synchronisation des terminaux."
    
@@ -42,6 +42,10 @@ La Base de données DSI_T1 est hébergée sur un serveur Linux Debian 13.
 Vous avez l'accès aux bases de données de manière sécurisée via le logiciel KeePass pour vous connectez aux bases de données via le réseau.
 
 En terme de sécurité : Chaque base de données utilise une signature de chiffrement unique et les clées de chiffrement sont conservées localement sur leurs serveurs hôtes respectifs.
+
+# **Démonstration**
+
+Je donne la parole à mon Scrum Master pour vous démontrez à travers son écran, tout ce que nous avons élaboré durant cette 1ere semaine du projet : 
 
 
 
