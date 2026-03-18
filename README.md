@@ -8,8 +8,7 @@ Projet 4 : Gestion Sécurisée de Bases de Données de Mots de Passe
 
 
 
-  Texte : 📝 Description du projet
-  
+ ## 🏗️ Description du projet 
 Ce projet consiste en la mise en place d'une infrastructure de gestion centralisée et sécurisée de mots de passe, basée sur le logiciel KeePass.
 
 Le déploiement s'articule autour de deux bases de données chiffrées, accessibles dans un environnement hybride (Windows et Linux), garantissant ainsi une haute disponibilité pour vous (le Client).
