@@ -12,3 +12,7 @@
 ip a
 
 <img width="824" height="72" alt="Capture d&#39;écran 2026-03-11 153343" src="https://github.com/user-attachments/assets/506996be-76e7-41ac-bb3d-60f6c5c6098a" />
+
+# Installation de KeePass sur WIN01 
+
+<img width="735" height="509" alt="Screenshot 2026-03-18 150904" src="https://github.com/user-attachments/assets/0cef913c-2f5d-4cd6-b21c-802f303acd56" />
