@@ -14,6 +14,7 @@
 # Créer une nouvelle clef chiffrée par mot de passe ultra sécurisée 
 <img width="870" height="635" alt="Screenshot 2026-03-18 153552" src="https://github.com/user-attachments/assets/8d7fd4f3-e7cf-4fc0-bd12-0604fe6a7c53" />
 <img width="453" height="360" alt="Screenshot 2026-03-18 153658" src="https://github.com/user-attachments/assets/dda5e972-02d9-46e1-81fd-b38120a3d152" />
-<img width="1482" height="591" alt="Screenshot 2026-03-18 153757" src="https://github.com/user-attachments/assets/2fbac257-f0e1-45c7-ae5a-8dd1ed37f762" />
-<img width="692" height="737" alt="Screenshot 2026-03-18 153957" src="https://github.com/user-attachments/assets/b6b16a3e-3cb5-4dfb-be1a-3ad2948ebd3e" />
+
+<img width="<img width="1485" height="591" alt="Screenshot 2026-03-18 175622" src="https://github.com/user-attachments/assets/4566b074-314b-429e-a505-86786bcb3412" />
+692" height="737" alt="Screenshot 2026-03-18 153957" src="https://github.com/user-attachments/assets/b6b16a3e-3cb5-4dfb-be1a-3ad2948ebd3e" />
 <img width="609" height="531" alt="Screenshot 2026-03-18 154035" src="https://github.com/user-attachments/assets/c34e5d45-9c8c-4a9d-b105-9e77386094d7" />
