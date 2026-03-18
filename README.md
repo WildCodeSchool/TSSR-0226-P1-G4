@@ -3,8 +3,7 @@ Projet 4 : Gestion Sécurisée de Bases de Données de Mots de Passe
 # Sommaire : 
 
 1.  [Description du Projet](#Description-du-Projet)
-2.  [Membre du groupe](#Membre-du-groupe)
-3.  [Rôle des Membres](#Rôle-des-membres)
+2.  [Membre du groupe et Rôle des Membres](#Membre-du-groupe-Rôle-des-Membres)
 4.  [Architecture technique](#Architecture-technique)
 
 
@@ -19,23 +18,18 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 ![LAB](https://github.com/WildCodeSchool/TSSR-0226-P1-G4/blob/main/ressource/Sch%C3%A9ma-Projet.png)
 
 ------------------------------------------------------------------------------------------------------------
-  # **Membre du groupe**
+  # **Membre du groupe et Rôle des Membres**
  
-  * PO_Product Owner : Minjha
-  * SM_Scrum Master : Cédric
-  * Tech : Anass
-  * Tech : Zinedine
 
-  # **Rôle des Membres**  
+  |             |                                                                        **Sprint 1**                                                                        |                                 **Sprint 2**                                 |
+| :---------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
+| **Anass**  |                                 Effectué une connexion sécurisée en SSH qui permet aux 4 machines de communiquer entre-elles et la synchronisation des terminaux.                                   |   _Product owner_: Maintenir la direction du projet. Livraison de l'audit.Backlog    |
+| **Zinedine**  | Installation de la clef de chiffrement sur chaque serveur, création des accès aux 2 BDD via le protocole SMB. |                  Rédaction de la présentation.                   |
+|  **Minjha**  |   _Product owner_: Création du Backlog et participation à la documentation du projet.Backlog   |                          Rédaction de INSTALL.md. Documentation de la réalisation                           |
+| **Cédric** |                                 _Scrum Master_: Gestion et encadrement du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu) et la rédaction de la documentation.                                    |  Mise en place de la Démonstration, Rédaction du README.md |
+| **Commun**  |                                     Installation de toutes les VM et des logiciels pour pouvoir tester en même temps.                                      |                       Test du cassage de mot de passe. Travail sur la présentation                        |
 
-  Minjha : "Création du Backlog et participation à la documentation du projet."
-  
-  Cédric : "Gestion et encadrement du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu) et la rédaction de la documentation."
-  
-  Anass : "Effectué une connexion sécurisée en SSH qui permet aux 4 machines de communiquer entre-elles et la synchronisation des terminaux."
-   
-  Zinedine : "Installation de la clef de chiffrement sur chaque serveur, création des accès aux 2 BDD via le protocole SMB."
-
+ 
   #  **Architecture technique**
   
 La Base de données "DSI_T0" est hébergée sur un serveur Windows Server 2025.
