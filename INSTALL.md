@@ -5,8 +5,8 @@
 
 &nbsp;
 
-> **Étape 1 — Lancement de l'installateur KeePass**
-> Télécharger KeePass depuis le site officiel keepass.info. Double-cliquer sur le fichier `.exe` pour lancer l'assistant d'installation.
+ **Étape 1 — Lancement de l'installateur KeePass**
+ Télécharger KeePass depuis le site officiel keepass.info. Double-cliquer sur le fichier `.exe` pour lancer l'assistant d'installation.
 
 &nbsp;
  
