@@ -62,16 +62,7 @@ Le stockage est centralisé et protégé par le chiffrement initial de KeePass.
 <img width="1002" height="298" alt="Screenshot 2026-03-18 181536" src="https://github.com/user-attachments/assets/7733d518-76b2-4d82-ab8f-916dbf4bab63" />
 
 # Configuration d'accès au server via protocol SMB
-
-
-
-
-
-
-
-
-
-
+<img width="1349" height="624" alt="Capture d&#39;écran 2026-03-19 114533" src="https://github.com/user-attachments/assets/e13763a4-64c5-4d8f-856a-0f65e4467fe3" />
 
 
 
