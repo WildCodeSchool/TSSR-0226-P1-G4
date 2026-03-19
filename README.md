@@ -1,14 +1,14 @@
 Projet 4 : Gestion Sécurisée de Bases de Données de Mots de Passe
 
-# Sommaire : 
+# **_Sommaire_** : 
 
 1.  [Description du Projet](#Description-du-Projet)
 2.  [Membre du groupe et Rôle des Membres](#Membre-du-groupe-et-Rôle-des-Membres)
 3.  [Architecture technique](#Architecture-technique)
 4.  [Technologies Utilisées](#Technologies-Utilisées)
+5.  [Logiciel](#Logiciel)
 
-
- ##  Description du projet 
+   #  **_Description du projet_** 
 Ce projet consiste en la mise en place d'une infrastructure de gestion centralisée et sécurisée de mots de passe, basée sur le logiciel KeePass.
 
 Le déploiement s'articule autour de deux bases de données chiffrées, accessibles dans un environnement hybride (Windows et Linux), garantissant ainsi une haute disponibilité pour vous (le Client).
@@ -18,7 +18,7 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 ![LAB](https://github.com/WildCodeSchool/TSSR-0226-P1-G4/blob/main/ressource/Sch%C3%A9ma-Projet.png)
 
 ------------------------------------------------------------------------------------------------------------
-  # **Membre du groupe et Rôle des Membres**
+   # **_Membre du groupe et Rôle des Membres_**
  
 
   |             |                                                                        **Sprint 1**                                                                        |                                 **Sprint 2**                                 |
@@ -30,7 +30,7 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 | **Commun**  |                                     Installation de toutes les VM et des logiciels pour pouvoir tester en même temps.                                      |                       Test du cassage de mot de passe. Travail sur la présentation                        |
 
  
-  #  **Architecture technique**
+   #  **_Architecture technique_**
   
 La Base de données "DSI_T0" est hébergée sur un serveur Windows Server 2025.
 
@@ -40,16 +40,8 @@ L'accès aux bases de données de manière sécurisée via le logiciel KeePass p
 
 Sécurité : Chaque base de données utilise une signature de chiffrement unique et les clées de chiffrement sont conservées localement sur leurs serveurs hôtes respectifs.
 
- #  Projet Infrastructure de Gestion Sécurisée des Accès Privilégiés
 
-##  Description du projet
-
-Ce projet consiste en la mise en place d'une infrastructure de gestion centralisée et sécurisée de mots de passe, basée sur le logiciel KeePass. 
-
-Le déploiement s'articule autour de deux bases de données chiffrées, accessibles dans un environnement hybride (Windows et Linux), garantissant ainsi une haute disponibilité pour vous (le Client).
-
-
-#  Technologies Utilisées
+   #  **_Technologies Utilisées_**
 
 - VM 1 : WIN01 - CLIENT WINDOWS 11
 - OS : Windows 11
@@ -81,7 +73,9 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 - Adresse Ip : 172.16.10.6
 - Masque : 255.255.255.0
 
+  # **_Logiciel_**
 
-
+- Keepass 2.61 : [Lien de Téléchargement](https://keepass.info/download.html) , [Lien de Documentation](https://keepass.info/index.html)
+- WinCSP : [Lien de Téléchargement](https://winscp.net/eng/download.php) , [Lien de Documentation](https://winscp.net/eng/docs/start)
 
 
