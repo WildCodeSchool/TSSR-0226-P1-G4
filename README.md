@@ -1,4 +1,4 @@
-Projet 4 : Gestion Sécurisée de Bases de Données de Mots de Passe
+# Gestion Sécurisée de Bases de Données de Mots de Passe
 
 # **_Sommaire_** : 
 
