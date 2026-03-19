@@ -7,6 +7,8 @@
 
 
 
+**Étape 2 — Installation terminée**
+Valider les étapes de l'assistant et cliquer sur "Terminer". KeePass est maintenant installé sur WIN01 et prêt à être configuré.
 
 
 
