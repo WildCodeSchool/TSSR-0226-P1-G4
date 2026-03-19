@@ -34,3 +34,16 @@
 <img width="650" height="627" alt="Screenshot 2026-03-18 180730" src="https://github.com/user-attachments/assets/89d49c01-25f0-42e4-a73e-44269968b3ad" />
 
 # Connexion du client WIN01 à notre serveur blindé SRVWIN01
+<img width="519" height="765" alt="Screenshot 2026-03-18 180939" src="https://github.com/user-attachments/assets/9e64344a-b8e7-4e8d-bb6d-d2b22d75a047" />
+<img width="480" height="277" alt="Screenshot 2026-03-18 180956" src="https://github.com/user-attachments/assets/f97e4d7c-a803-4c76-add7-fa1c5efb4104" />
+<img width="486" height="258" alt="Screenshot 2026-03-18 181026" src="https://github.com/user-attachments/assets/bc3b18f7-2d7c-4bbf-84aa-3ce48d0288c6" />
+<img width="564" height="552" alt="Screenshot 2026-03-18 181057" src="https://github.com/user-attachments/assets/c0565e7d-e020-4f80-83ba-d650ef5e7f81" />
+<img width="555" height="552" alt="Screenshot 2026-03-18 181223" src="https://github.com/user-attachments/assets/a90af3eb-051c-432f-a053-0fdcf98dc94e" />
+<img width="606" height="252" alt="Screenshot 2026-03-18 181238" src="https://github.com/user-attachments/assets/1034aede-49fb-418d-9846-2f19352922e3" />
+<img width="691" height="248" alt="Screenshot 2026-03-18 181302" src="https://github.com/user-attachments/assets/0b3aefbe-3106-492e-a120-9ca8645b5826" />
+<img width="977" height="761" alt="Screenshot 2026-03-18 181354" src="https://github.com/user-attachments/assets/bba9c69c-3420-48a5-b8b7-eea1e28646c5" />
+<img width="664" height="766" alt="Screenshot 2026-03-18 181505" src="https://github.com/user-attachments/assets/9fb841df-7487-4c2f-b754-655f5a36cd27" />
+<img width="1002" height="298" alt="Screenshot 2026-03-18 181536" src="https://github.com/user-attachments/assets/7733d518-76b2-4d82-ab8f-916dbf4bab63" />
+
+# Autoriser 
+
