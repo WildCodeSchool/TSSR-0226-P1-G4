@@ -23,13 +23,13 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
    # **_Membre du groupe et Rôle des Membres_**
  
 
-  |             |                                                                        **Sprint 1**                                                                        |                                 **Sprint 2**                                 |
-| :---------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| **Anass**  |                                 Effectué une connexion sécurisée en SSH qui permet aux 4 machines de communiquer entre-elles et la synchronisation des terminaux.                                   |   _Product owner_: Maintenir la direction du projet. Livraison de l'audit.Backlog    |
-| **Zinedine**  | Installation de la clef de chiffrement sur chaque serveur, création des accès aux 2 BDD via le protocole SMB. |                  Rédaction de la présentation.                   |
-|  **Minjha**  |   _Product owner_: Création du Backlog et participation à la documentation du projet.Backlog   |                          Rédaction de INSTALL.md. Documentation de la réalisation                           |
-| **Cédric** |                                 _Scrum Master_: Gestion et encadrement du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu) et la rédaction de la documentation.                                    |  Mise en place de la Démonstration, Rédaction du README.md |
-| **Commun**  |                                     Installation de toutes les VM et des logiciels pour pouvoir tester en même temps.                                      |                       Test du cassage de mot de passe. Travail sur la présentation                        |
+|      Noms       |      Rôles  S-01                  |                                              Sprint 1                                                                        |      Rôles S-02       |                   Sprint 2                                 |
+| :---------: | :-----------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :----------------: | :----------------------------------------------------------: |
+| Anass  |              Tech expert              |     Effectué une connexion sécurisée en SSH qui permet aux 4 machines de communiquer entre-elles et la synchronisation des terminaux.                                   | _POProduct Owner            |Product owner: Maintenir la direction du projet. Livraison de l'audit.Backlog    |
+| Zinedine  |         Tech expert   |Installation de la clef de chiffrement sur chaque serveur, création des accès aux 2 BDD via le protocole SMB. |                  Rédaction de la présentation.                        |  Tech expert           |
+|  Minjha  |            _POProduct Owner | Création du Backlog et participation à la documentation du projet.Backlog   |                          Rédaction de INSTALL.md. Documentation de la réalisation                 |   _SMScrum Master          |
+| Cédric |                _SMScrum Master |                 Gestion et encadrement du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu) et la rédaction de la documentation.                             |    Tech expert         |  Mise en place de la Démonstration, Rédaction du README.md |
+| Commun  |                |                     Installation de toutes les VM et des logiciels pour pouvoir tester en même temps.                                      |                       Test du cassage de mot de passe. Travail sur la présentation                        |
 
  
    #  **_Architecture technique_**
