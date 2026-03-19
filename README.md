@@ -7,6 +7,8 @@ Projet 4 : Gestion Sécurisée de Bases de Données de Mots de Passe
 3.  [Architecture technique](#Architecture-technique)
 4.  [Technologies Utilisées](#Technologies-Utilisées)
 5.  [Logiciel](#Logiciel)
+6.  [Difficultés et solutions rencontrées:](#Difficultés-et-solutions-rencontrées:)
+7.  [Améliorations possibles](#Améliorations-possibles)
 
    #  **_Description du projet_** 
 Ce projet consiste en la mise en place d'une infrastructure de gestion centralisée et sécurisée de mots de passe, basée sur le logiciel KeePass.
@@ -78,4 +80,16 @@ Sécurité : Chaque base de données utilise une signature de chiffrement unique
 - Keepass 2.61 : [Lien de Téléchargement](https://keepass.info/download.html) , [Lien de Documentation](https://keepass.info/index.html)
 - WinCSP : [Lien de Téléchargement](https://winscp.net/eng/download.php) , [Lien de Documentation](https://winscp.net/eng/docs/start)
 
+## **_Difficultés et solutions rencontrées:_**
+
+| **Difficultées**                                           |                                                       **Solutions** |
+| :--------------------------------------------------------- | ------------------------------------------------------------------: |
+| Logiciel Putty                 |                                    Installation de Winscp |
+| Connection au serveur la plus securisé                 |           Connection via le Protocol SMB (windows) |
+| Connection au serveur la plus sécurisé   |    Connection vie la Protocol Samba (unix) |
+
+
+# **_Améliorations possibles_**
+
+**Il est recommandé de ne jamais stocker la clé de chiffrement au même endroit que la base de données afin de renforcer la sécurité !** 
 
