@@ -50,8 +50,14 @@ Le stockage est centralisé et protégé par le chiffrement initial de KeePass.
 <img width="650" height="627" alt="Screenshot 2026-03-18 180730" src="https://github.com/user-attachments/assets/89d49c01-25f0-42e4-a73e-44269968b3ad" />
 
 # Configuration d'accès au server via SSH
+
+Faire un ping avec l'ip du serveur : 172.16.10.5 pour s'assurer que la connexion entre WIN01 et SRVWIN01 est bien établie :
 <img width="519" height="258" alt="Screenshot 2026-03-18 155339" src="https://github.com/user-attachments/assets/0954e468-8bb2-4caf-b81c-2271da10a812" />
+
+Vérifier que le protocole SSH est activé sur votre poste de travail en tapant ssh :
 <img width="745" height="174" alt="Screenshot 2026-03-18 152638" src="https://github.com/user-attachments/assets/95bfe217-c5ed-4c3e-a0af-93754854bdaf" />
+
+
 <img width="1023" height="170" alt="Capture d&#39;écran 2026-03-19 121241" src="https://github.com/user-attachments/assets/d2f94200-964a-4b6e-86b9-e30eb54aba23" />
 
 # Configuration d'accès au server via protocol SMB
