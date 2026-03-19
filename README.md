@@ -48,16 +48,6 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 
 > **Analogie du Major :** On ne laisse pas les clés du serveur sous le paillasson. On construit une salle des coffres avec une porte blindée (chiffrement) et on s'assure qu'on peut y accéder même si un ascenseur tombe en panne (haute disponibilité).
 
-##  Membres du groupe et Rôle des Membres
-
-| Nom | Sprint 1 | Sprint 2 |
-| :--- | :--- | :--- |
-| **Anass** | Effectué une connexion sécurisée en SSH qui permet aux 4 machines de communiquer entre-elles et la synchronisation des terminaux. | *Product Owner* : Maintenir la direction du projet. Livraison de l'audit Backlog. |
-| **Zinedine** | Installation de la clef de chiffrement sur chaque serveur, création des accès aux 2 BDD via le protocole SMB. | Rédaction de la présentation. |
-| **Minjha** | *Product Owner* ; Création du Backlog et participation à la documentation du projet. | Rédaction de INSTALL.md. Documentation de la réalisation. |
-| **Cédric** | *Scrum Master* ; Gestion et encadrement du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu) et rédaction de la documentation. | Mise en place de la Démonstration, Rédaction du README.md. |
-| **Commun** | Installation de toutes les VM et des logiciels pour pouvoir tester en même temps. | Test du cassage de mot de passe. Travail sur la présentation. |
-
 ##  Technique architecturale
 
 * La Base de données **"DSI_T0"** est hébergée sur un serveur **Windows Server 2025**.
