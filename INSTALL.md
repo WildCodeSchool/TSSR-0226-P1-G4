@@ -40,7 +40,15 @@
 &nbsp; 
 
 <img width="2535" height="1685" alt="Capture d&#39;écran 2026-03-19 102720" src="https://github.com/user-attachments/assets/6543e0ff-cef1-4b28-9fbe-df8b54639531" />
+
+&nbsp;
+
+ **Étape 2 — Lancement de l'assistant d'installation**
+ Double-cliquer sur le fichier `.exe` téléchargé pour démarrer l'assistant d'installation WinSCP.
+
+&nbsp;
 <img width="706" height="399" alt="Screenshot 2026-03-19 101724" src="https://github.com/user-attachments/assets/af57e312-cca7-4bbb-adc9-e3aa4aa185de" />
+
 <img width="1022" height="402" alt="Screenshot 2026-03-19 101745" src="https://github.com/user-attachments/assets/2b9fb0d8-d2a4-43c3-8a9e-d58724a3efa3" />
 <img width="417" height="189" alt="Screenshot 2026-03-19 101800" src="https://github.com/user-attachments/assets/da2ede4c-011d-49bd-9d9d-2db875a0aa35" />
 <img width="703" height="590" alt="Screenshot 2026-03-19 101819" src="https://github.com/user-attachments/assets/98032d98-15b8-48a2-8308-a513da3a1483" />
