@@ -7,7 +7,7 @@ Projet 4 : Gestion Sécurisée de Bases de Données de Mots de Passe
 3.  [Architecture technique](#Architecture-technique)
 4.  [Technologies Utilisées](#Technologies-Utilisées)
 5.  [Logiciel](#Logiciel)
-6.  [Difficultés et solutions rencontrées:](#Difficultés-et-solutions-rencontrées:)
+6.  [Difficultés et solutions rencontrées](#Difficultés-et-solutions-rencontrées)
 7.  [Améliorations possibles](#Améliorations-possibles)
 
    #  **_Description du projet_** 
@@ -80,7 +80,7 @@ Sécurité : Chaque base de données utilise une signature de chiffrement unique
 - Keepass 2.61 : [Lien de Téléchargement](https://keepass.info/download.html) , [Lien de Documentation](https://keepass.info/index.html)
 - WinCSP : [Lien de Téléchargement](https://winscp.net/eng/download.php) , [Lien de Documentation](https://winscp.net/eng/docs/start)
 
-## **_Difficultés et solutions rencontrées:_**
+## **_Difficultés et solutions rencontrées_**
 
 | **Difficultées**                                           |                                                       **Solutions** |
 | :--------------------------------------------------------- | ------------------------------------------------------------------: |
