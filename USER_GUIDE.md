@@ -66,23 +66,8 @@ Le stockage est centralisé et protégé par le chiffrement initial de KeePass.
 
 # Configueration d'accès au server via SSH
 <img width="519" height="258" alt="Screenshot 2026-03-18 155339" src="https://github.com/user-attachments/assets/0954e468-8bb2-4caf-b81c-2271da10a812" />
-
-
-
-
-
-
-
 <img width="745" height="174" alt="Screenshot 2026-03-18 152638" src="https://github.com/user-attachments/assets/95bfe217-c5ed-4c3e-a0af-93754854bdaf" />
-
-
-
-
-
-
-
-
-
+<img width="1023" height="170" alt="Capture d&#39;écran 2026-03-19 121241" src="https://github.com/user-attachments/assets/d2f94200-964a-4b6e-86b9-e30eb54aba23" />
 
 
 
