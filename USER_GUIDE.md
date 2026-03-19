@@ -79,8 +79,3 @@ Le stockage est centralisé et protégé par le chiffrement initial de KeePass.
 
 
 
-
-
-
-
-
