@@ -13,6 +13,8 @@ Ce projet consiste en la mise en place d'une infrastructure de gestion centralis
 
 Le déploiement s'articule autour de deux bases de données chiffrées, accessibles dans un environnement hybride (Windows et Linux), garantissant ainsi une haute disponibilité pour vous (le Client).
 
+> **Analogie du Major :** On ne laisse pas les clés du serveur sous le paillasson. On construit une salle des coffres avec une porte blindée (chiffrement) et on s'assure qu'on peut y accéder même si un ascenseur tombe en panne (haute disponibilité).
+
 ![LAB](https://github.com/WildCodeSchool/TSSR-0226-P1-G4/blob/main/ressource/Sch%C3%A9ma-Projet.png)
 
 ------------------------------------------------------------------------------------------------------------
@@ -45,8 +47,6 @@ Sécurité : Chaque base de données utilise une signature de chiffrement unique
 Ce projet consiste en la mise en place d'une infrastructure de gestion centralisée et sécurisée de mots de passe, basée sur le logiciel KeePass. 
 
 Le déploiement s'articule autour de deux bases de données chiffrées, accessibles dans un environnement hybride (Windows et Linux), garantissant ainsi une haute disponibilité pour vous (le Client).
-
-> **Analogie du Major :** On ne laisse pas les clés du serveur sous le paillasson. On construit une salle des coffres avec une porte blindée (chiffrement) et on s'assure qu'on peut y accéder même si un ascenseur tombe en panne (haute disponibilité).
 
 
 #  Technologies Utilisées
