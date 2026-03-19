@@ -59,14 +59,16 @@ Le stockage est centralisé et protégé par le chiffrement initial de KeePass.
 
 ## Se connecter au serveur via le protocole SSH via la commande suivante :
 <img width="1017" height="118" alt="Capture d&#39;écran 2026-03-19 130602" src="https://github.com/user-attachments/assets/9b61314d-aa4b-45f6-934d-b793e0d9bc2d" />
+
+# Bravo vous avez maintenant accès au server !
+
+## administrator@SRVWIN01 nous confirme que vous êtes connecté au serveur depuis WIN01.
 <img width="1023" height="170" alt="Capture d&#39;écran 2026-03-19 121241" src="https://github.com/user-attachments/assets/d2f94200-964a-4b6e-86b9-e30eb54aba23" />
 
-
-
-# Configuration d'accès au server via protocol SMB via la commande suivante :
+# Configuration de la synchronisation entre WIN01 et le serveur SRVWIN01 via protocol SMB :
 <img width="1351" height="112" alt="Capture d&#39;écran 2026-03-19 121920" src="https://github.com/user-attachments/assets/a82f677c-e0d2-44ec-8225-3fd5b4305269" />
 
-# Connexion du client WIN01 à notre serveur blindé SRVWIN01
+# Création du pont réseau entre client WIN01 et notre serveur SRVWIN01 pour y déposer la bdd DSI_T0 et la clef chiffrée
 <img width="519" height="765" alt="Screenshot 2026-03-18 180939" src="https://github.com/user-attachments/assets/9e64344a-b8e7-4e8d-bb6d-d2b22d75a047" />
 <img width="480" height="277" alt="Screenshot 2026-03-18 180956" src="https://github.com/user-attachments/assets/f97e4d7c-a803-4c76-add7-fa1c5efb4104" />
 <img width="486" height="258" alt="Screenshot 2026-03-18 181026" src="https://github.com/user-attachments/assets/bc3b18f7-2d7c-4bbf-84aa-3ce48d0288c6" />
