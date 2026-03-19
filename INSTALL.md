@@ -1,6 +1,13 @@
 # Installation de KeePass sur WIN01 
 
+![Screenshot 2026-03-18 152920](lien_image_1)
 
+&nbsp;
+
+> **Étape 1 — Lancement de l'installateur KeePass**
+> Télécharger KeePass depuis le site officiel keepass.info. Double-cliquer sur le fichier `.exe` pour lancer l'assistant d'installation.
+
+&nbsp;
 
 **Étape 1 — Lancement de l'installateur KeePass**
  Télécharger KeePass depuis le site officiel keepass.info. Double-cliquer sur le fichier `.exe` pour lancer l'assistant d'installation.
