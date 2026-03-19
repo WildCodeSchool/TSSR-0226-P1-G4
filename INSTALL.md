@@ -34,8 +34,8 @@
 
 &nbsp;
 
-> **Étape 1 — Téléchargement de WinSCP**
-> Se rendre sur winscp.net et télécharger la dernière version stable. WinSCP permet le transfert de fichiers sécurisé entre Windows et Linux via le protocole SFTP/SSH.
+ **Étape 1 — Téléchargement de WinSCP**
+ Se rendre sur winscp.net et télécharger la dernière version stable. WinSCP permet le transfert de fichiers sécurisé entre Windows et Linux via le protocole SFTP/SSH.
 
 &nbsp; 
 
