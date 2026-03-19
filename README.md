@@ -5,7 +5,7 @@ Projet 4 : Gestion Sécurisée de Bases de Données de Mots de Passe
 1.  [Description du Projet](#Description-du-Projet)
 2.  [Membre du groupe et Rôle des Membres](#Membre-du-groupe-et-Rôle-des-Membres)
 3.  [Architecture technique](#Architecture-technique)
-4.  [Projet Infrastructure de Gestion Sécurisée des Accès Privilégiés](#Projet-Infrastructure-de-Gestion-Sécurisée-des-Accès-Privilégiés)
+4.  [Technologies Utilisées](#Technologies-Utilisées)
 
 
  ##  Description du projet 
@@ -48,18 +48,40 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 
 > **Analogie du Major :** On ne laisse pas les clés du serveur sous le paillasson. On construit une salle des coffres avec une porte blindée (chiffrement) et on s'assure qu'on peut y accéder même si un ascenseur tombe en panne (haute disponibilité).
 
-##  Technique architecturale
 
-* La Base de données **"DSI_T0"** est hébergée sur un serveur **Windows Server 2025**.
-* La Base de données **"DSI_T1"** est hébergée sur un serveur **Linux Debian 13**.
-* L'accès aux bases de données de manière sécurisée via le logiciel KeePass pour se connecter aux bases de données via le réseau.
+#  Technologies Utilisées
 
-##  Technologies Utilisées
+- VM 1 : WIN01 - CLIENT WINDOWS 11
+- OS : Windows 11
+- Compte & Mot de passe : Wilder, Azerty1*
+- Adresse Ip : 172.16.10.10
+- Masque : 255.255.255.0
 
-* **Virtualisation :** Oracle VirtualBox
-* **Systèmes :** Windows Server 2025, Debian 13, Windows 11, Ubuntu
-* **Sécurité :** KeePass / KeePassXC
-* **Réseau & Partage :** SSH, SMB (Server Message Block)
+------------------------------------
+
+- VM 2 : UBU01 - CLIENT UBUNTU
+- OS : Ubuntu 24.04
+- Compte & Mot de passe : wilder, Azerty1*
+- Adresse Ip : 172.16.10.20
+- Masque : 255.255.255.0
+
+------------------------------------
+
+- VM 3 : SRVWIN01 - WindowsServer
+- OS : Windows Server 2025 GUI
+- Compte & Mot de passe : Administrator, Azerty1*
+- Adresse Ip : 172.16.10.5
+- Masque : 255.255.255.0
+
+------------------------------------
+
+- VM 4 : SRVLX01 - DebianServer
+- OS : Debian 13 CLI
+- Compte & Mot de passe : Root, Azerty1*
+- Adresse Ip : 172.16.10.6
+- Masque : 255.255.255.0
+
+
 
 
 
