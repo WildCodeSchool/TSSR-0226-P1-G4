@@ -58,7 +58,10 @@ Le stockage est centralisé et protégé par le chiffrement initial de KeePass.
 <img width="745" height="174" alt="Screenshot 2026-03-18 152638" src="https://github.com/user-attachments/assets/95bfe217-c5ed-4c3e-a0af-93754854bdaf" />
 
 ## Se connecter au serveur via le protocole SSH via la commande suivante :
+<img width="1017" height="118" alt="Capture d&#39;écran 2026-03-19 130602" src="https://github.com/user-attachments/assets/9b61314d-aa4b-45f6-934d-b793e0d9bc2d" />
 <img width="1023" height="170" alt="Capture d&#39;écran 2026-03-19 121241" src="https://github.com/user-attachments/assets/d2f94200-964a-4b6e-86b9-e30eb54aba23" />
+
+
 
 # Configuration d'accès au server via protocol SMB via la commande suivante :
 <img width="1351" height="112" alt="Capture d&#39;écran 2026-03-19 121920" src="https://github.com/user-attachments/assets/a82f677c-e0d2-44ec-8225-3fd5b4305269" />
