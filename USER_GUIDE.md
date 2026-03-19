@@ -76,9 +76,7 @@ Le stockage est centralisé et protégé par le chiffrement initial de KeePass.
 <img width="1002" height="298" alt="Screenshot 2026-03-18 181536" src="https://github.com/user-attachments/assets/7733d518-76b2-4d82-ab8f-916dbf4bab63" />
 
 # Bravo vous avez accès au serveur depuis votre poste de travail
-
-
-
+<img width="1110" height="406" alt="Capture d&#39;écran 2026-03-18 182008" src="https://github.com/user-attachments/assets/b729cb2b-811c-4948-96cb-79d4ab0a8748" />
 
 
 
