@@ -29,7 +29,7 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 | Zinedine  |         Tech expert   |Installation de la clef de chiffrement sur chaque serveur, création des accès aux 2 BDD via le protocole SMB. |               Tech expert                         |    Rédaction de la présentation.           |
 |  Minjha  |            Product Owner | Création du Backlog et participation à la documentation du projet.Backlog   |                      Scrum Master                      |     Rédaction de INSTALL.md. Documentation de la réalisation       |
 | Cédric |                Scrum Master |                 Gestion et encadrement du projet. Installation de KeePass sur les clients (Windows 11/Ubuntu) et la rédaction de la documentation.                             |    Tech expert         |  Mise en place de la Démonstration, Rédaction du README.md |
-| Commun  |                |                     Installation de toutes les VM et des logiciels pour pouvoir tester en même temps.                                      |                       Test du cassage de mot de passe. Travail sur la présentation                        |
+| Commun  |                |                     Installation de toutes les VM et des logiciels pour pouvoir tester en même temps.                                      |                                             | Test du cassage de mot de passe. Travail sur la présentation 
 
  
    #  **_Architecture technique_**
