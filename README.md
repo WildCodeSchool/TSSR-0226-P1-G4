@@ -17,7 +17,7 @@ Le déploiement s'articule autour de deux bases de données chiffrées, accessib
 
 > **Analogie du Major :** On ne laisse pas les clés du serveur sous le paillasson. On construit une salle des coffres avec une porte blindée (chiffrement) et on s'assure qu'on peut y accéder même si un ascenseur tombe en panne (haute disponibilité).
 
-![LAB](https://github.com/WildCodeSchool/TSSR-0226-P1-G4/blob/main/ressource/Sch%C3%A9ma-Projet.png)
+![LAB](https://github.com/WildCodeSchool/TSSR-0226-P1-G4/blob/main/ressource/Projet1-G4-Page-1.drawio%20(1).png)
 
 ------------------------------------------------------------------------------------------------------------
    # **_Membre du groupe et Rôle des Membres_**
