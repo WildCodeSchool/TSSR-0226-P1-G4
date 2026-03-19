@@ -5,7 +5,7 @@ Projet 4 : Gestion Sécurisée de Bases de Données de Mots de Passe
 1.  [Description du Projet](#Description-du-Projet)
 2.  [Membre du groupe et Rôle des Membres](#Membre-du-groupe-et-Rôle-des-Membres)
 3.  [Architecture technique](#Architecture-technique)
-4.  [Projet TSSR : Infrastructure de Gestion Sécurisée des Accès Privilégiés : KeePass](#Projet-TSSR-:-Infrastructure-de-Gestion-Sécurisée-des-Accès-Privilégiés-:-Keepass)
+4.  [Projet Infrastructure de Gestion Sécurisée des Accès Privilégiés](#Projet-Infrastructure-de-Gestion-Sécurisée-des-Accès-Privilégiés)
 
 
  ##  Description du projet 
@@ -38,7 +38,7 @@ L'accès aux bases de données de manière sécurisée via le logiciel KeePass p
 
 Sécurité : Chaque base de données utilise une signature de chiffrement unique et les clées de chiffrement sont conservées localement sur leurs serveurs hôtes respectifs.
 
- #  Projet TSSR : Infrastructure de Gestion Sécurisée des Accès Privilégiés : KeePass
+ #  Projet Infrastructure de Gestion Sécurisée des Accès Privilégiés
 
 ##  Description du projet
 
