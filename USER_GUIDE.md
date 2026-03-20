@@ -174,13 +174,23 @@ Dans le menu déroulant : "Profile" sélectinnez "Hex-Key -256-Bit (built-in).
 
 &nbsp;
 
+
+# Bravo vous venez de déposer votre base de donnée DSI_T0 et votre clef chiffré sur notre serveur 
+
+&nbsp;
+
 <img width="1339" height="753" alt="Screenshot 2026-03-19 103039" src="https://github.com/user-attachments/assets/18fc204c-220f-4295-bc1f-08feb8069d51" />
 
 &nbsp;
 
 # Bravo vous avez accès au serveur depuis votre poste de travail
 
+Votre base de donnée DSI_T0 et votre clef chiffrée a bien été déposé sur notre serveur, en voici la preuve :
+Notre terminal avec notre IP 172.16.10.5
+Dans les Documents de notre serveur, on voit bien votre base de donnée et votre clef. Bravo !
+
 &nbsp;
+
 <img width="1110" height="406" alt="Capture d&#39;écran 2026-03-18 182008" src="https://github.com/user-attachments/assets/b729cb2b-811c-4948-96cb-79d4ab0a8748" />
 
 
