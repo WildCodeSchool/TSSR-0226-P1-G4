@@ -97,12 +97,6 @@ WinSCP est connecté aux deux serveurs. Le panneau gauche affiche les fichiers l
 
 &nbsp;
 
-**Étape 8 — Transfert de la base de données DSI_T0**
-Lancer le transfert du fichier DSI_T0.kdbx vers le répertoire Documents du serveur Windows. Cliquer sur "OK" pour confirmer l'envoi.
-
-&nbsp;
-<img width="1346" height="754" alt="Screenshot 2026-03-19 102826" src="https://github.com/user-attachments/assets/59474d67-4b54-4694-9d42-e4e56f9c587d" />
-&nbsp;
 
  **Étape 9 — Saisie du mot de passe**
  Entrer le mot de passe du compte wilder pour établir la connexion SSH vers SRVLX01.
