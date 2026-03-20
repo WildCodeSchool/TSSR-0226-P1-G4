@@ -21,7 +21,7 @@ Cliquer sur le menu fichier en haut à gauche et sélectionner "Nouveau".
 &nbsp;
 
 ## Étape 3 — Tapez votre mot de passe "Azerty1* dans la section Master password
-Cochez la case "Key file/provider et appuyez sur le bouton "créer"
+Cochez la case "Key file/provider:" et appuyez sur le bouton "créer"
 
 &nbsp;
 
