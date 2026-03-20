@@ -90,7 +90,7 @@ Lancer le transfert du fichier DSI_T0.kdbx vers le répertoire Documents du serv
 &nbsp;
 
  **Étape 7 — Connexion établie vers SRVWIN01 et SRVLX01**
-WinSCP est connecté aux deux serveurs. Le panneau gauche affiche les fichiers locaux, le panneau droit affiche les fichiers distants. Les bases de données DSI_T0 et DSI_T1 sont visibles su
+WinSCP est connecté aux deux serveurs. Le panneau gauche affiche les fichiers locaux, le panneau droit affiche les fichiers distants. Les bases de données DSI_T0 et DSI_T1 sont visibles.
 
 &nbsp;
 <img width="1342" height="753" alt="Screenshot 2026-03-19 102757" src="https://github.com/user-attachments/assets/c542ba88-9789-4087-899f-e11d8ff3d841" />
