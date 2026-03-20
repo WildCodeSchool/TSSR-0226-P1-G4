@@ -82,15 +82,15 @@ Une alerte s'affiche pour confirmer l'ajout de la clé SSH du serveur — clique
 <img width="634" height="459" alt="Screenshot 2026-03-19 102513" src="https://github.com/user-attachments/assets/2f207fcb-904e-4bb7-8d19-8709b98d3327" />
 &nbsp;
 
-**Étape 6 — Connexion établie vers SRVWIN01 et SRVLX01**
-WinSCP est connecté aux deux serveurs. Le panneau gauche affiche les fichiers locaux, le panneau droit affiche les fichiers distants. Les bases de données DSI_T0 et DSI_T1 sont visibles sur leurs serveurs respectifs.
+ **Étape 6 — Transfert de la base de données DSI_T0**
+Lancer le transfert du fichier DSI_T0.kdbx vers le répertoire Documents du serveur Windows. Cliquer sur "OK" pour confirmer l'envoi.
 
 &nbsp;
 <img width="457" height="366" alt="Screenshot 2026-03-19 102533" src="https://github.com/user-attachments/assets/8b7dbcbc-545e-4016-b907-b33139824a15" />
 &nbsp;
 
- **Étape 7 — Transfert de la base de données DSI_T0**
-Lancer le transfert du fichier DSI_T0.kdbx vers le répertoire Documents du serveur Windows. Cliquer sur "OK" pour confirmer l'envoi.
+ **Étape 7 — Connexion établie vers SRVWIN01 et SRVLX01**
+WinSCP est connecté aux deux serveurs. Le panneau gauche affiche les fichiers locaux, le panneau droit affiche les fichiers distants. Les bases de données DSI_T0 et DSI_T1 sont visibles su
 
 &nbsp;
 <img width="1342" height="753" alt="Screenshot 2026-03-19 102757" src="https://github.com/user-attachments/assets/c542ba88-9789-4087-899f-e11d8ff3d841" />
