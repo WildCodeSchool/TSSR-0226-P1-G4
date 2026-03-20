@@ -55,7 +55,7 @@ Dans la section "DataBase name :" écvrivez "DSI_T0" puis cliquez sur OK.
 
 &nbsp;
 
-## Sauvegardez la base de donnée dans vos Documents
+## Étape 3 — Sauvegardez la base de donnée dans vos Documents
 
 &nbsp;
 
@@ -68,10 +68,21 @@ Dans la section "DataBase name :" écvrivez "DSI_T0" puis cliquez sur OK.
 
 &nbsp;
 
-# Générer un mot de passe niveau maximal ultra sécurisé 256 bits
+# Étape 4 — Générez un mot de passe niveau ultra sécurisé 256 bits
+
+&nbsp;
+
+Cliquez sur "Tools" et sélectionnez "Generate Password".
+
+&nbsp;
+
 <img width="870" height="633" alt="Screenshot 2026-03-18 180143" src="https://github.com/user-attachments/assets/94e8eb1e-cf06-417e-806d-f616f941ba81" />
-<img width="652" height="706" alt="Screenshot 2026-03-18 180232" src="https://github.com/user-attachments/assets/d0001fe5-0d6c-48ea-8b45-f6874d577928" />
+
+&nbsp;
+
 <img width="650" height="706" alt="Screenshot 2026-03-18 180804" src="https://github.com/user-attachments/assets/87e45d8d-b9e8-4c56-8251-07430138d1ef" />
+
+
 <img width="652" height="630" alt="Screenshot 2026-03-18 180710" src="https://github.com/user-attachments/assets/81216660-58a9-4e4b-a179-c210fe8dae84" />
 
 # Comparaison avec un mot de passe 10 fois plus faible (Azerty1*) 28 bits
