@@ -26,8 +26,14 @@ Cochez la case "Key file/provider et appuyez sur le bouton "créer"
 &nbsp;
 
 
-<img width="453" height="360" alt="Screenshot 2026-03-18 153658" src="https://github.com/user-attachments/assets/dda5e972-02d9-46e1-81fd-b38120a3d152" />
 <img width="692" height="737" alt="Screenshot 2026-03-18 153957" src="https://github.com/user-attachments/assets/33bee563-c023-45da-a75f-59c6689f4bc4" />
+
+&nbsp;
+
+Cliquez sur "Create a new key file (randowm key) puis cliquez sur OK.
+
+&nbsp;
+
 <img width="609" height="531" alt="Screenshot 2026-03-18 154035" src="https://github.com/user-attachments/assets/e0baade0-e674-4833-86de-83f8fd5d68ef" />
 <img width="1485" height="591" alt="Screenshot 2026-03-18 175622" src="https://github.com/user-attachments/assets/4566b074-314b-429e-a505-86786bcb3412" />
 <img width="692" height="739" alt="Screenshot 2026-03-18 175738" src="https://github.com/user-attachments/assets/2e3a14cf-30e5-4561-bfd5-57f18061ce0b" />
