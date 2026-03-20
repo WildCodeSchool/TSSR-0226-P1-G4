@@ -99,7 +99,7 @@ WinSCP est connecté aux deux serveurs. Le panneau gauche affiche les fichiers l
 
 
  **Étape 8 — Saisie du mot de passe**
- Entrer le mot de passe du compte wilder pour établir la connexion SSH vers SRVLX01.
+Confirmation de l'envoi de la base de données.
 
 &nbsp;
 <img width="625" height="264" alt="Screenshot 2026-03-19 102847" src="https://github.com/user-attachments/assets/9880562a-2b82-45bf-9af8-c6a4491cf38e" />
