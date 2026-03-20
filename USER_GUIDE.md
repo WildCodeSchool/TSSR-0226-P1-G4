@@ -45,6 +45,11 @@ Dans la section "File name" supprimez "DataBase" et écrivez "DSI_T0" puis cliqu
 
 <img width="1485" height="591" alt="Screenshot 2026-03-18 175622" src="https://github.com/user-attachments/assets/4566b074-314b-429e-a505-86786bcb3412" />
 
+&nbsp;
+
+Dans la section "DataBase name :" écvrivez "DSI_T0" puis cliquez sur OK.
+
+&nbsp;
 
 <img width="647" height="595" alt="Screenshot 2026-03-18 175755" src="https://github.com/user-attachments/assets/5b546ab2-d484-48f4-a220-7c2c00078be8" />
 
