@@ -109,14 +109,6 @@
 &nbsp;
 <img width="625" height="264" alt="Screenshot 2026-03-19 102847" src="https://github.com/user-attachments/assets/9880562a-2b82-45bf-9af8-c6a4491cf38e" />
 
-&nbsp;
-
- **Étape 13 — Transfert terminé et vérification**
- Le fichier est bien présent sur SRVLX01. La base DSI_T1 est accessible depuis le serveur Debian via KeePassXC.
-
-&nbsp;
-
-
 
 
 
