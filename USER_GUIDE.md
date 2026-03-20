@@ -1,34 +1,27 @@
-Guide de Configuration : Sécurisation et Transfert
-Une fois KeePass installé, suivez ces étapes pour configurer votre environnement et établir une connexion sécurisée avec le serveur.
+# Logiciel KeePass
 
-1. Création de la Clé de Chiffrement
-La première étape consiste à générer une base de données sécurisée. KeePass utilise un chiffrement robuste pour protéger vos accès.
+&nbsp;
 
-Lancez KeePass et créez une nouvelle base de données (.kdbx) (Base de donnée = le fichier de la clé Master).
+## Étape 1 — Lancement du logiciel KeePass
+Ouvrir le logiciel KeePass depuis votre dossier : Mes Documents en double cliquant sur l'application
 
-Générez une Clé de Chiffrement (Master Password) forte ou utilisez un fichier clé.
+&nbsp;
 
-Cette clé servira de verrou unique pour l'ensemble de vos paramètres de connexion.
-
-2. Configuration du Plugin IOProtocolExt
-Pour permettre la communication entre votre client local et le serveur distant, nous utilisons cette application IOProtocolExt.
-
-Rôle : Cet Application étend les capacités de KeePass pour supporter des protocoles de transfert spécifiques (comme SFTP, FTP over SSH, ou HTTP/S).
-
-Connexion : Configurez les identifiants de votre serveur dans l'interface du plugin pour établir un pont sécurisé entre votre machine et l'infrastructure distante.
-
-3. Stockage et Synchronisation des Fichiers
-Une fois la liaison établie via IOProtocolExt, le tunnel de communication est opérationnel :
-
-Vous pouvez désormais déplacer vos fichiers sensibles vers le serveur.
-
-Le stockage est centralisé et protégé par le chiffrement initial de KeePass.
-
-# Ouvrir le logiciel KeePass
 <img width="870" height="634" alt="Screenshot 2026-03-18 153521" src="https://github.com/user-attachments/assets/eba9739e-4e50-4935-bdf8-4734a77e5e8e" />
 
-# Créer une nouvelle clef chiffrée KeePass
-<img width="870" height="635" alt="Screenshot 2026-03-18 153552" src="https://github.com/user-attachments/assets/8d7fd4f3-e7cf-4fc0-bd12-0604fe6a7c53" />
+&nbsp;
+
+## Étape 2 — Créer une nouvelle clef chiffrée KeePass
+Cliquer sur le menu fichier en haut à gauche et sélectionner "Nouveau".
+
+&nbsp;
+
+## Étape 3 — Tapez votre mot de passe "Azerty1* dans la section Master password
+Cochez la case "Key file/provider et appuyez sur le bouton "créer"
+
+&nbsp;
+
+
 <img width="453" height="360" alt="Screenshot 2026-03-18 153658" src="https://github.com/user-attachments/assets/dda5e972-02d9-46e1-81fd-b38120a3d152" />
 <img width="692" height="737" alt="Screenshot 2026-03-18 153957" src="https://github.com/user-attachments/assets/33bee563-c023-45da-a75f-59c6689f4bc4" />
 <img width="609" height="531" alt="Screenshot 2026-03-18 154035" src="https://github.com/user-attachments/assets/e0baade0-e674-4833-86de-83f8fd5d68ef" />
