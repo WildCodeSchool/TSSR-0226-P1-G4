@@ -35,8 +35,17 @@ Cliquez sur "Create a new key file (randowm key) puis cliquez sur OK.
 &nbsp;
 
 <img width="609" height="531" alt="Screenshot 2026-03-18 154035" src="https://github.com/user-attachments/assets/e0baade0-e674-4833-86de-83f8fd5d68ef" />
+
+&nbsp;
+
+## Étape 3 — Créer votre base de donnée DSI_T0 et enregistrez la dans vos Documents
+Dans la section "File name" supprimez "DataBase" et écrivez "DSI_T0" puis cliquez sur "Save".
+
+&nbsp;
+
 <img width="1485" height="591" alt="Screenshot 2026-03-18 175622" src="https://github.com/user-attachments/assets/4566b074-314b-429e-a505-86786bcb3412" />
-<img width="692" height="739" alt="Screenshot 2026-03-18 175738" src="https://github.com/user-attachments/assets/2e3a14cf-30e5-4561-bfd5-57f18061ce0b" />
+
+
 <img width="647" height="595" alt="Screenshot 2026-03-18 175755" src="https://github.com/user-attachments/assets/5b546ab2-d484-48f4-a220-7c2c00078be8" />
 
 # Créer une nouvelle base de donnée blindée KeePass
