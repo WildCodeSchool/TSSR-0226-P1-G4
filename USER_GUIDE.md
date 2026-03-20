@@ -12,6 +12,9 @@ Ouvrir le logiciel KeePass depuis votre dossier : Mes Documents en double cliqua
 &nbsp;
 
 ## Étape 2 — Créer une nouvelle clef chiffrée KeePass
+
+&nbsp;
+
 Cliquer sur le menu fichier en haut à gauche et sélectionner "Nouveau".
 <img width="870" height="635" alt="Screenshot 2026-03-18 153552" src="https://github.com/user-attachments/assets/5ec51715-03a2-49ba-b43f-28a760250d76" />
 
