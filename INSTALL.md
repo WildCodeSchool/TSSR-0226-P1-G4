@@ -98,7 +98,7 @@ WinSCP est connecté aux deux serveurs. Le panneau gauche affiche les fichiers l
 &nbsp;
 
 
- **Étape 8 — Saisie du mot de passe**
+ **Étape 8** — 
 Confirmation de l'envoi de la base de données.
 
 &nbsp;
