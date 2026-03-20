@@ -117,7 +117,7 @@ Dans le menu déroulant : "Profile" sélectinnez "Hex-Key -256-Bit (built-in).
 <img width="1351" height="112" alt="Capture d&#39;écran 2026-03-19 121920" src="https://github.com/user-attachments/assets/a82f677c-e0d2-44ec-8225-3fd5b4305269" />
 
 # Création du pont réseau entre client WIN01 et notre serveur SRVWIN01 pour y déposer la bdd DSI_T0 et la clef chiffrée
-<img width="519" height="765" alt="Screenshot 2026-03-18 180939" src="https://github.com/user-attachments/assets/9e64344a-b8e7-4e8d-bb6d-d2b22d75a047" />
+
 
 &nbsp;
 
@@ -146,19 +146,35 @@ Dans le menu déroulant : "Profile" sélectinnez "Hex-Key -256-Bit (built-in).
 
 &nbsp;
 
-<img width="691" height="248" alt="Screenshot 2026-03-18 181302" src="https://github.com/user-attachments/assets/0b3aefbe-3106-492e-a120-9ca8645b5826" />
+<img width="1022" height="402" alt="Screenshot 2026-03-19 101745" src="https://github.com/user-attachments/assets/9aaa332a-aada-498b-b46f-4ef13e5cd7fa" />
+
 
 &nbsp;
 
-<img width="977" height="761" alt="Screenshot 2026-03-18 181354" src="https://github.com/user-attachments/assets/bba9c69c-3420-48a5-b8b7-eea1e28646c5" />
+<img width="780" height="528" alt="Screenshot 2026-03-19 101946" src="https://github.com/user-attachments/assets/7d944f9f-cbd7-49f5-977a-463138fc6764" />
 
 &nbsp;
 
-<img width="664" height="766" alt="Screenshot 2026-03-18 181505" src="https://github.com/user-attachments/assets/9fb841df-7487-4c2f-b754-655f5a36cd27" />
+
+<img width="402" height="255" alt="Screenshot 2026-03-19 102233" src="https://github.com/user-attachments/assets/4220b308-1353-4a1a-a1ce-4ddeb5977812" />
 
 &nbsp;
 
-<img width="1002" height="298" alt="Screenshot 2026-03-18 181536" src="https://github.com/user-attachments/assets/7733d518-76b2-4d82-ab8f-916dbf4bab63" />
+
+<img width="783" height="527" alt="Screenshot 2026-03-19 102459" src="https://github.com/user-attachments/assets/d3cd0594-7206-4da6-b675-461ac9a564e6" />
+
+&nbsp;
+
+
+<img width="1342" height="753" alt="Screenshot 2026-03-19 102757" src="https://github.com/user-attachments/assets/99e76f36-a38b-4d11-be03-bb24ddeab87a" />
+
+&nbsp;
+
+<img width="1346" height="754" alt="Screenshot 2026-03-19 102826" src="https://github.com/user-attachments/assets/fdb9a5c1-18b5-49af-a936-d7e7aac79e96" />
+
+&nbsp;
+
+<img width="1339" height="753" alt="Screenshot 2026-03-19 103039" src="https://github.com/user-attachments/assets/18fc204c-220f-4295-bc1f-08feb8069d51" />
 
 &nbsp;
 
